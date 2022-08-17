@@ -1,0 +1,17 @@
+Unit 10 Graphs and statistics
+
+- fall!=sharply
+- drop
+- decline
+- significantly: Our share of the market has increased significantly this month.
+- decrease:  Our sales have decreased significantly this month.
+- increase
+- rise: Inflation has risen to nearly 2.1% this month.
+- stable: The revenue flow was stable for the last few years.
+- reach: The temperature is expected to reach 30 degrees Celsius today.
+- percentage
+- percent
+- pie chart: The pie chart shows the percentage of daytime temperatures 
+             over 30 degrees in Phnom Penh last year.
+- centigrade: Water boils at 100 degrees centigrade/Celsius.
+- precipitation: Today, no precipitation is expected.

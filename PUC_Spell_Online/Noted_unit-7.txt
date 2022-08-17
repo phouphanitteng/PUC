@@ -1,0 +1,33 @@
+
+
+Unit 7 Story Time
+
+   <==> Vocabulary
+
+ - character : I like all the characters in the movie.
+ - main character: The main character was driving home when another character 
+   got in an accident.
+ - minor character : The minor characters in the movie are all female.
+ - Plot: The film has a very simple plot.
+ - scene: The wedding was a fascinating scene. 
+ - conflict: Tum Teav is a novel of conflict in love.
+ - climax: Tum Teav’s climax was when the actor and actress died.
+ - fiction: I don't like reading fiction. it's not real to me.
+ - non-fiction: I really enjoys reading non-fliction stories.
+ - narrator : it began telling the beginning information of the story.
+ - villain: it wanted to kill the actor.
+ - sequence: The film's closing sequence is of a very pleasant love.
+ - exposition: He did a very nice with job with the opening of the story’s exposition.
+ - tragedy: War is the greatest tragedy of the world and mankind.
+ - fortunately: Fortunately, the main character survived the bombing.
+ - wildly: The tiger attacked the deer wildly.
+ - dew : He has collected dew every morning for the past 3 days.
+ - handkerchief :He took out his handkerchief and blew his nose.
+ - squeenze : Cut the lemon in half and squeeze the juice into the bowl.
+ - giltter: There was a glittering light in the sky.
+ - axe : point.
+ - bolt of lightning: រន្ទះ 
+ - monsoon: The floods were caused by the rains of monsoon.
+ - dust:  After days of no cleaning, there was a lot of dust on the table
+ - lantern : Children play with lanterns during the Moon Festival.
+0 1 1 1 0 0 0 1 1 0
